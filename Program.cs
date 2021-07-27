@@ -6,7 +6,7 @@ namespace gitfirst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hiiii!");
         }
     }
 }
