@@ -7,11 +7,6 @@ namespace gitfirst
         static void Main(string[] args)
         {
             Console.WriteLine("Hiiii!");
-
-            int y = 50;
-            int z = 20;
-            Console.WriteLine("h12");
-            Console.ReadLine();
         }
     }
 }
